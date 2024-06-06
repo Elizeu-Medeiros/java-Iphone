@@ -1,0 +1,23 @@
+# Ignore Gradle build files
+.gradle/
+build/
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore MacOS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
